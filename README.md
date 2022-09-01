@@ -4,4 +4,4 @@ NPM	    :	2106751783
 
 Kelas	:	D
 
-Hobi    :   Solat
+Hobi    :   Ngaji
